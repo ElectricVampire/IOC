@@ -1,0 +1,5 @@
+C:\Users\pareeka2\Documents\Visual Studio 2015\Projects\WCFLearning\Abstraction\IOC_Container\bin\Debug\IOC_Container.dll
+C:\Users\pareeka2\Documents\Visual Studio 2015\Projects\WCFLearning\Abstraction\IOC_Container\bin\Debug\IOC_Container.pdb
+C:\Users\pareeka2\Documents\Visual Studio 2015\Projects\WCFLearning\Abstraction\IOC_Container\obj\Debug\IOC_Container.csprojResolveAssemblyReference.cache
+C:\Users\pareeka2\Documents\Visual Studio 2015\Projects\WCFLearning\Abstraction\IOC_Container\obj\Debug\IOC_Container.dll
+C:\Users\pareeka2\Documents\Visual Studio 2015\Projects\WCFLearning\Abstraction\IOC_Container\obj\Debug\IOC_Container.pdb

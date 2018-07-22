@@ -1,0 +1,7 @@
+C:\Users\pareeka2\Documents\Visual Studio 2015\Projects\WCFLearning\Abstraction\HighLevelModule\bin\Debug\HighLevelModule.dll
+C:\Users\pareeka2\Documents\Visual Studio 2015\Projects\WCFLearning\Abstraction\HighLevelModule\bin\Debug\HighLevelModule.pdb
+C:\Users\pareeka2\Documents\Visual Studio 2015\Projects\WCFLearning\Abstraction\HighLevelModule\bin\Debug\Abstraction.dll
+C:\Users\pareeka2\Documents\Visual Studio 2015\Projects\WCFLearning\Abstraction\HighLevelModule\bin\Debug\Abstraction.pdb
+C:\Users\pareeka2\Documents\Visual Studio 2015\Projects\WCFLearning\Abstraction\HighLevelModule\obj\Debug\HighLevelModule.csprojResolveAssemblyReference.cache
+C:\Users\pareeka2\Documents\Visual Studio 2015\Projects\WCFLearning\Abstraction\HighLevelModule\obj\Debug\HighLevelModule.dll
+C:\Users\pareeka2\Documents\Visual Studio 2015\Projects\WCFLearning\Abstraction\HighLevelModule\obj\Debug\HighLevelModule.pdb

@@ -1,0 +1,14 @@
+C:\Users\pareeka2\Documents\Visual Studio 2015\Projects\WCFLearning\Abstraction\ClientApp\bin\Debug\ClientApp.exe.config
+C:\Users\pareeka2\Documents\Visual Studio 2015\Projects\WCFLearning\Abstraction\ClientApp\bin\Debug\ClientApp.exe
+C:\Users\pareeka2\Documents\Visual Studio 2015\Projects\WCFLearning\Abstraction\ClientApp\bin\Debug\ClientApp.pdb
+C:\Users\pareeka2\Documents\Visual Studio 2015\Projects\WCFLearning\Abstraction\ClientApp\bin\Debug\Abstraction.dll
+C:\Users\pareeka2\Documents\Visual Studio 2015\Projects\WCFLearning\Abstraction\ClientApp\bin\Debug\HighLevelModule.dll
+C:\Users\pareeka2\Documents\Visual Studio 2015\Projects\WCFLearning\Abstraction\ClientApp\bin\Debug\Implementation.dll
+C:\Users\pareeka2\Documents\Visual Studio 2015\Projects\WCFLearning\Abstraction\ClientApp\bin\Debug\IOC_Container.dll
+C:\Users\pareeka2\Documents\Visual Studio 2015\Projects\WCFLearning\Abstraction\ClientApp\bin\Debug\Abstraction.pdb
+C:\Users\pareeka2\Documents\Visual Studio 2015\Projects\WCFLearning\Abstraction\ClientApp\bin\Debug\HighLevelModule.pdb
+C:\Users\pareeka2\Documents\Visual Studio 2015\Projects\WCFLearning\Abstraction\ClientApp\bin\Debug\Implementation.pdb
+C:\Users\pareeka2\Documents\Visual Studio 2015\Projects\WCFLearning\Abstraction\ClientApp\bin\Debug\IOC_Container.pdb
+C:\Users\pareeka2\Documents\Visual Studio 2015\Projects\WCFLearning\Abstraction\ClientApp\obj\Debug\ClientApp.csprojResolveAssemblyReference.cache
+C:\Users\pareeka2\Documents\Visual Studio 2015\Projects\WCFLearning\Abstraction\ClientApp\obj\Debug\ClientApp.exe
+C:\Users\pareeka2\Documents\Visual Studio 2015\Projects\WCFLearning\Abstraction\ClientApp\obj\Debug\ClientApp.pdb
